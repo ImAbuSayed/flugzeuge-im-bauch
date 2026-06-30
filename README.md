@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/flugzeuge-im-bauch/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Flugzeuge im Bauch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/flugzeuge-im-bauch/) |
+| **Get License** | [Official Music Licensing for Flugzeuge im Bauch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/flugzeuge-im-bauch/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Flugzeuge im Bauch, wenn du mich so ansiehst
+> Die Welt um uns laut, doch nur du bist, was mich anzieht
+> Komm, steig in den Wagen, wir flieh'n durch die Nacht
+> Guck, Shawty, was deine Nähe mit mir macht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
